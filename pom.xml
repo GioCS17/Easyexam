@@ -63,10 +63,10 @@
 		</dependency>
     <dependency>
       <groupId>com.easyexam</groupId>
-      <artifactId>sampleJLR</artifactId>
+      <artifactId>example-app</artifactId>
       <version>1.0</version>
       <scope>system</scope>
-      <systemPath>${project.basedir}/src/main/jlr.jar</systemPath>
+      <systemPath>${basedir}/src/main/jlr.jar</systemPath>
     </dependency>
 	</dependencies>
 
